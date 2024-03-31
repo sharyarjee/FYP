@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1077071213581</string>
+    <string name="google_api_key" translatable="false">AIzaSyBjxYTjdWG3RB2hwiq2mC-zq_K6CBeg7_Q</string>
+    <string name="google_app_id" translatable="false">1:1077071213581:android:af691339856fdd47161144</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBjxYTjdWG3RB2hwiq2mC-zq_K6CBeg7_Q</string>
+    <string name="google_storage_bucket" translatable="false">easytransit-4921b.appspot.com</string>
+    <string name="project_id" translatable="false">easytransit-4921b</string>
+</resources>

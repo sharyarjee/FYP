@@ -1,0 +1,1 @@
+ C:\\Users\\HP\\StudioProjects\\easyTransit\\.dart_tool\\flutter_build\\fbf57cd19d16a4cc5da33ff452acf2d5\\native_assets.yaml: 
